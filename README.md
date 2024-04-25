@@ -1,6 +1,6 @@
 # workshop-Gcode
 
-# prerequis
+# prérequis
 aucuns nous allons utiliser ncwiever pour visualiser le gcode ecrit
 
 # subject
