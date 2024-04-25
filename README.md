@@ -1,5 +1,8 @@
 # workshop-Gcode
 
+# prerequis
+aucuns nous allons utiliser ncwiever pour visualiser le gcode ecrit
+
 # subject
 lien du sujet: [subject](https://github.com/ulysse-mercadal/workshop-Gcode/blob/main/subject.md)
 
