@@ -69,6 +69,8 @@ Faites des cercles concentriques
 
 Recréez un code pour découper dans une plaque de métal de 3 cm une pièce tenue selon ce schéma : 
 
+![alt text](https://github.com/ulysse-mercadal/workshop-Gcode/blob/main/Screenshot%20from%202024-04-24%2023-28-02.png?raw=true)
+
 
 **6- variables**
 
